@@ -22,6 +22,8 @@ TABLE: fear_and_greed_index_data – collect downloaded data
 
 # Quick Install and deployment
 
+Create Table on your database from fear_and_greed_data.sql script
+
 Use your credentials and settings in files listed below:
 
 - global_config.json – general configuration
