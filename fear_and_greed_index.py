@@ -5,12 +5,12 @@
 # Example URL: https://api.alternative.me/fng/?limit=10&format=csv
 # Example URL: https://api.alternative.me/fng/?limit=10&format=csv&date_format=us
  """
-## Version: 0.1
+## Version: 0.01
 # Libs
 import json
 import requests
 from datetime import datetime
-from db_works import db_connect, db_tables
+from db_works import db_connect
 
 # todo: get only new periods
 # get settings from config json
