@@ -1,4 +1,4 @@
-## Version: 0.01
+# Stock tactics v0.01
 # libs
 import mysql.connector  # https://dev.mysql.com/doc/connector-python/en/
 import json

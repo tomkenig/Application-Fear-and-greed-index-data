@@ -1,0 +1,7 @@
+{
+  "setting_id": 1,
+  "setting_name": "CRYPTO Fear and greed index FAGI",
+  "periods_to_overwrite": 3,
+  "db_fagi_schema_name": "DESTINATION_SCHEMA_NAME",
+  "db_fagi_table_name": "DESTINATION_TABLE_NAME"
+}

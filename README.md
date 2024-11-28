@@ -34,4 +34,4 @@ To automate use CRON or Task manager
 
 CRON example:
 
-/usr/bin/env bash -c ‘source /usr/home/[USER]/[VIRTUAL_ENV] && cd /usr/home/[USER]/[APPLICATION_PATH]/ && python /usr/home/[USER]/[APPLICATION_PATH]//fear_and_greed_index.py’
+5 5 * * * /usr/bin/env bash -c ‘source /usr/home/[USER]/[VIRTUAL_ENV] && cd /usr/home/[USER]/[APPLICATION_PATH]/ && python /usr/home/[USER]/[APPLICATION_PATH]//fear_and_greed_index.py’
